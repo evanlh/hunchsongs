@@ -1,0 +1,8 @@
+This is the sourcecode to the music mashup at http://beckonr.com/hunchsongs
+
+==Installation==
+1. Clone this repository
+2. Get a TinySong API key from http://www.tinysong.com/api
+3. Put the key in getSongIds.orig.php and rename it to getSongIds.php
+4. Host it somewhere that interprets PHP
+
